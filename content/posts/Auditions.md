@@ -10,7 +10,6 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: /img/audition_orig.jpg
-# coverImage: /img/audition_orig.jpg
 metaAlignment: center
 ---
 
@@ -59,4 +58,4 @@ We highly recommend you attend in-person auditions. For those that cannot, you m
 ## Audition Panel
 
 
-Auditions are with the Director (Jen Schaerer), Music Director (Jess Verchick), Choreographer (Madalynn Swaltek), and Producer (Erin Perry).ß
+Auditions are with the Director (Jen Schaerer), Music Director (Jess Verchick), Choreographer (Madalynn Swaltek), and Producer (Erin Perry).

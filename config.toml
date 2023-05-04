@@ -12,12 +12,12 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://dramaproducer.com/after-dark-cabaret"
+baseURL = "http://after-dark-cabaret.dramaproducer.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "After Dark Cabaret"
 theme = "tranquilpeak"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "dramaproducer"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -321,7 +321,7 @@ canonifyurls = true
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "hugo-tranquilpeak-theme"
+      shortname = "dramaproducer"
     [params.comment.gitalk]
       enable = false
       # clientId =
@@ -356,3 +356,18 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   #  [params.footer]
   #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+# order = [".jpg$", ".gif$"]
+
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "aws"
+
+# S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://after-dark-cabaret.dramaproducer.com?region=us-east-1"
