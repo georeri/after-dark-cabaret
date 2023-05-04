@@ -1,0 +1,10 @@
+
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/hugo-theme-walden"]
+	path = themes/hugo-theme-walden
+	url = git@github.com:Homecat805/hugo-theme-walden.git
