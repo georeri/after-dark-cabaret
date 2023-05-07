@@ -4,15 +4,18 @@ date: 2023-05-04
 categories:
 - schedule
 tags:
-- audition
+- rehearsal
 keywords:
-- audition
+- rehearsal
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: /img/rehearsal.jpeg
 # coverImage: /img/audition_orig.jpg
 metaAlignment: center
 ---
-## TBD
 
-Stay tuned. We will announce rehearsal schedule shortly after Heathers announces theirs. We will do our best to schedule rehearsals around conflicts.
+Our rehearsals are likely going to be on Tuesday, Thursdays and Saturdays. We will organize our rehearsals around Heather's, to allow performers to do both.
+
+First rehearsal will be May 26th. Our fist choreo rehearsal will be June 10th.
+
+Stay tuned for more!
