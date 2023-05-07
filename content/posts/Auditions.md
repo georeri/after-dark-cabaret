@@ -1,6 +1,6 @@
 ---
 title: "Audition Information"
-date: 2023-05-04
+date: 2023-05-07
 categories:
 - audition
 tags:
@@ -37,9 +37,9 @@ Auditions will be at the Everett Theatre on 46 West Main Street, Middletown, DE.
 
 There will be no call-back auditions.
 
-## CONSENT FORM - REQUIRED FOR ALL
+## CONSENT FORM - REQUIRED FOR THOSE UNDER 18, RECOMMENDED FOR ALL
 
-All auditioners are required to fill out and submit a consent form. Auditioners under 18 require parent/guardian signature on that form.
+Auditioners under 18 require parent/guardian signature on this form. All performers are welcome to fill out the form, if you'd like to avoid performing in any of the content types listed.
 
 [Consent Form can be downloaded here.](../doc/After-Dark-Cabaret-Consent-Form.pdf)
 
@@ -56,7 +56,7 @@ If you are under 18, provide consent from a parent/guardian. This is required du
 
 ## Video Auditions
 
-We highly recommend you attend in-person auditions. For those that cannot, you may email video submissions to the following email address: everett.cabaret@gmail.com . All video submissions should be submitted by 11:00PM on May 21st. Videos should include 16-32 bars of a vocal performance, as well as demonstration of your dancing ability. For example, 1 minute of movement to your favorite song from Rent. You should also provide any conflicts you have between May 29th and August 12th that would prevent you from attending rehearsals on nights and weekends. All auditioners are required to submit the consent form (link above).
+We highly recommend you attend in-person auditions. For those that cannot, you may email video submissions to the following email address: everett.cabaret@gmail.com . All video submissions should be submitted by 11:00PM on May 21st. Videos should include 16-32 bars of a vocal performance, as well as demonstration of your dancing ability. For example, 1 minute of movement to your favorite song from Rent. You should also provide any conflicts you have between May 29th and August 12th that would prevent you from attending rehearsals on nights and weekends. Auditioners under 18 are required to submit the consent form (link above).
 
 
 ## Audition Panel
