@@ -14,8 +14,8 @@ thumbnailImage: /img/rehearsal.jpeg
 metaAlignment: center
 ---
 
-Our rehearsals are likely going to be on Tuesday, Thursdays and Saturdays. We will organize our rehearsals around Heather's, to allow performers to do both.
+Our rehearsals are likely going to be on Mondays and Thursdays from 6:30-9:30 and Saturday afternoons. We will organize our rehearsals around Heather's, to allow performers to do both.
 
-First rehearsal will be May 26th. Our fist choreo rehearsal will be June 10th.
+First rehearsal will be May 26th.
 
 Stay tuned for more!
