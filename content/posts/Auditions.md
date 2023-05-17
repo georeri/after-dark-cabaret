@@ -63,3 +63,11 @@ We highly recommend you attend in-person auditions. For those that cannot, you m
 
 
 Auditions are with the Director (Jen Schaerer), Music Director (Jess Verchick), Choreographer (Madalynn Swaltek), and Producer (Erin Perry).
+
+## Audition and Casting Expectations
+
+The production team has already chosen about 80% of the featured songs. The remaining 20% will consist of additional songs we add, inspired by your auditions. You may not be cast in the number you audition with. If you are cast, you may not have a featured solo. We are leaning heavily into strong group numbers with fun choreography, and a run time under 120 minutes.
+
+## Rehearsal Commitment
+
+We have limited time and space to rehearse. We expect performers to study music, blocking, and choreo on their own. We reserve the right to recast or cut songs if you do not attend rehearsals or are not prepared. Absences and tardiness must be pre-approved by production staff – email or text, even if only 5 minutes late. No absences will be excused for the dress/tech rehearsals or performance dates.
