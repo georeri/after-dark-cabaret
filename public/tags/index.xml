@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on After Dark Cabaret</title>
-    <link>https://after-dark-cabaret-info.dramaproducer.com/tags/</link>
+    <link>http://after-dark-cabaret.dramaproducer.com/tags/</link>
     <description>Recent content in Tags on After Dark Cabaret</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://after-dark-cabaret-info.dramaproducer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://after-dark-cabaret.dramaproducer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cast</title>
+      <link>http://after-dark-cabaret.dramaproducer.com/tags/cast/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://after-dark-cabaret.dramaproducer.com/tags/cast/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>audition</title>
-      <link>https://after-dark-cabaret-info.dramaproducer.com/tags/audition/</link>
+      <link>http://after-dark-cabaret.dramaproducer.com/tags/audition/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://after-dark-cabaret-info.dramaproducer.com/tags/audition/</guid>
+      <guid>http://after-dark-cabaret.dramaproducer.com/tags/audition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rehearsal</title>
-      <link>https://after-dark-cabaret-info.dramaproducer.com/tags/rehearsal/</link>
+      <link>http://after-dark-cabaret.dramaproducer.com/tags/rehearsal/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://after-dark-cabaret-info.dramaproducer.com/tags/rehearsal/</guid>
+      <guid>http://after-dark-cabaret.dramaproducer.com/tags/rehearsal/</guid>
       <description></description>
     </item>
     

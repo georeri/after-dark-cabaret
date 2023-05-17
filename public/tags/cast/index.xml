@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cast on After Dark Cabaret</title>
+    <link>http://after-dark-cabaret.dramaproducer.com/tags/cast/</link>
+    <description>Recent content in cast on After Dark Cabaret</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://after-dark-cabaret.dramaproducer.com/tags/cast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cast-Only Site Deployed</title>
+      <link>http://after-dark-cabaret.dramaproducer.com/cast-site.html</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://after-dark-cabaret.dramaproducer.com/cast-site.html</guid>
+      <description>A private version of this site has been published to allow the staff to communicate and share with the cast. The username and password can be obtained from a member of production staff and will be provided to all confirmed cast members.
+Cast only cabaret site</description>
+    </item>
+    
+  </channel>
+</rss>

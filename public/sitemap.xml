@@ -2,39 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/tags/cast/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/categories/cast/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/cast-site.html</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/categories/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/posts/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/tags/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://after-dark-cabaret.dramaproducer.com/tags/audition/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/tags/audition/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/categories/audition/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/categories/audition/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/audition-information.html</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/audition-information.html</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/set-list-preview.html</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/categories/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/posts/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/set-list-preview.html</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/tags/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/tags/rehearsal/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/tags/rehearsal/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/rehearsal-schedule.html</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/rehearsal-schedule.html</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/categories/schedule/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/categories/schedule/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://after-dark-cabaret-info.dramaproducer.com/archives/</loc>
+    <loc>http://after-dark-cabaret.dramaproducer.com/archives/</loc>
   </url>
 </urlset>
