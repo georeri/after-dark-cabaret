@@ -23,7 +23,7 @@ paginate = 7
 canonifyurls = false
 
 [permalinks]
-  posts = "/:slug/index.html"
+  posts = "/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -64,25 +64,19 @@ canonifyurls = false
   identifier = "Audition Info"
   name = "Auditions"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/audition-information/"
+  url = "/audition-information.html"
 [[menu.main]]
   weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 4
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+  url = "/categories/index.html"
 [[menu.main]]
   weight = 5
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-  url = "/archives"
+  url = "/archives/index.html"
 
 # -------------
 # Customization

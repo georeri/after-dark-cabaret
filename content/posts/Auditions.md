@@ -11,6 +11,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: "left"
 thumbnailImage: /img/audition_orig.jpg
 metaAlignment: center
+url: audition-information.html
 ---
 
 

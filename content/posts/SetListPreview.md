@@ -12,6 +12,7 @@ thumbnailImagePosition: "left"
 thumbnailImage: /img/playlist.png
 # coverImage: /img/audition_orig.jpg
 metaAlignment: center
+url: set-list-preview.html
 ---
 
 
