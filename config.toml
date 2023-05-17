@@ -20,10 +20,10 @@ theme = "tranquilpeak"
 disqusShortname = "dramaproducer"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-canonifyurls = true
+canonifyurls = false
 
 [permalinks]
-  posts = "/:slug/"
+  posts = "/:slug/index.html"
 
 [taxonomies]
   tag = "tags"
