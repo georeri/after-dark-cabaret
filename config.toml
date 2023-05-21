@@ -61,10 +61,10 @@ canonifyurls = false
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "Audition Info"
-  name = "Auditions"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/audition-information.html"
+  identifier = "Music"
+  name = "Music Tracks"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-music\" aria-hidden=\"true\"></i>"
+  url = "/music.html"
 [[menu.main]]
   weight = 3
   identifier = "categories"
