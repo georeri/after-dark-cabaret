@@ -16,6 +16,10 @@ url: set-list.html
 summary: Set list, playlists, and show run info
 ---
 
+### Do NOT share this on social media
+
+The Everett will be releasing set list info as marketing. Keep this under your hat for now!
+
 ### Want a poster view what we're doing?
 [Cabaret Song Selections](../doc/song-selections.pdf)
 
