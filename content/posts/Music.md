@@ -12,6 +12,7 @@ thumbnailImagePosition: "left"
 thumbnailImage: /img/music.jpg
 metaAlignment: center
 url: music.html
+summary: Sheet music and backing tracks
 ---
 
 ## Sheet Music Available

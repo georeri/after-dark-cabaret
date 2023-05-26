@@ -13,6 +13,7 @@ thumbnailImage: /img/rehearsal.jpeg
 # coverImage: /img/audition_orig.jpg
 metaAlignment: center
 url: rehearsal-schedule.html
+summary: Look here for the current rehearsal schedule
 ---
 
 Our rehearsals are Mondays and Thursdays from 6:30-9:30 and Saturday afternoons. 

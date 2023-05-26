@@ -13,6 +13,7 @@ thumbnailImage: /img/playlist.png
 # coverImage: /img/audition_orig.jpg
 metaAlignment: center
 url: set-list.html
+summary: Set list, playlists, and show run info
 ---
 
 ### Want a poster view what we're doing?

@@ -12,6 +12,7 @@ thumbnailImagePosition: "left"
 thumbnailImage: /img/poster.jpg
 metaAlignment: center
 url: poster.html
+summary: Marketing poster and info
 ---
 
 ## Marketing Poster
