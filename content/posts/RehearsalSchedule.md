@@ -23,7 +23,7 @@ The rest of the schedule is below. We are still working out who will be called w
 | Date      | Location | Time | Agenda | Called |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 5/26 | Gibby | 6:30-9:30 | Intros; Raise You Up / Just Be  | All |
-6/3 | Gibby | 12:30-3:30 |  12:30-1:30 Totally F****d Music; 1:30-2:30 Bitch of Living Music; 2:30-3:30 Sincerely Me Music | Performers in these songs |
+6/3 | Gibby | 12:30-3:30 |  12:30-1:30 Totally F****d Music; 1:30-2:30 Bitch of Living Music; 2:30-3:30 TBD | ALL performers in these songs (almost whole cast) |
 6/5 | Gibby | 6:30-9:30 | 6:30-7:30 Bitch of Living Choreo; 7:30-8:30 Roxy Choreo; 8:30-9:30 You're the One That I Want  | Performers in these songs | 
 6/8 | Gibby | 6:30-9:30 |  6:30-7:30 - Easy Street; 7:30-9:00 Big Spender music & choreo; 9:00-9:30 Solo sing-throughs with Luisa and Courtney | Performers in these songs |
 6/10 | Gibby | 1:00-4:00 |  Cancelled - Go to pride events in Dover instead! |

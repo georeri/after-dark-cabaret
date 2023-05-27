@@ -36,7 +36,7 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Legally Blonde | Bend and Snap | Grace - Paulette; Olivia - Serena; Kendall - Pilar; Tay - Margot; Evie - Elle; Ensemble - Hannah, Lyo, Spencer, Jack, Sadie, Moses, Erin, Madey, Nina | 
 | Jeckyl and Hyde | Bring on the Men | Nick | 
 | Sweet Charity | Big Spender | Jes, Tatiana, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine | 
-| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; Andy - Georg; Jack - Moritz; | 
+| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; Andy - Georg; Jack - Moritz; Nick - Otto | 
 | Waitress | The Negative | Jen - Dawn; Erin - Becky; Madey - Jenna | 
 | First Date | In Love With You | Max | 
 | wicked | as long as you're mine | Jes & Nick | 
