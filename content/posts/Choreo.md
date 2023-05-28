@@ -9,7 +9,7 @@ keywords:
 - music
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
-thumbnailImage: /img/music.jpg
+thumbnailImage: /img/choreo.jpg
 metaAlignment: center
 url: choreo.html
 summary: Choreo notes and videos
