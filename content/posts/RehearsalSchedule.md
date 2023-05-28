@@ -23,7 +23,7 @@ The rest of the schedule is below. We are still working out who will be called w
 | Date      | Location | Time | Agenda | Called |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 5/26 | Gibby | 6:30-9:30 | Intros; Raise You Up / Just Be  | All |
-6/3 | Gibby | 12:30-3:30 |  12:30-12:45 Life of the Party; 12:45-1:15 Hello Little Girl; 1:15 - First Date; 1:45-2:30 Say No To This; 2:30-3:30 Sugar Daddy (Jose and Andy ONLY) | Sam, Max, Jasmine, Jose, Andy |
+6/3 | Gibby | 12:30-3:30 |  12:30-12:45 Life of the Party; 12:45-1:15 Hello Little Girl; 1:15-1;45 First Date; 1:45-2:30 Say No To This; 2:30-3:30 Sugar Daddy (Jose and Andy ONLY) | Sam, Max, Jasmine, Jose, Andy |
 6/5 | Gibby | 6:30-9:30 | 6:30-7:15 Bitch of Living Choreo; 7:15-8:00 Roxy Choreo; 8:00-9:30 You're the One That I Want  | Zephyr, Lyo, Jack, Andy, Nick, (Spencer), Moses, Madey, Max | 
 6/8 | Gibby | 6:30-9:30 |  6:30-7:30 - Easy Street; 7:30-9:00 Big Spender music & choreo; 9:00-9:30 Solo sing-throughs with Luisa and Courtney | Kim, Julie, James, Jess, Tati, Courtney, Luisa, Jasmine, Kim, Abby |
 6/10 | Gibby | 1:00-4:00 |  Cancelled - Go to pride events in Dover instead! |
