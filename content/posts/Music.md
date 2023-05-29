@@ -33,29 +33,31 @@ Sheet music will be posted here as we pull it and annotate it.
 
 ## Music tracks available for download
 
-Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky!
+Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky! (The one with "balanced" in their filenames are the ones Erin has pre-adjusted for volume-mixing)
 
-[Raise You Up / Just Be](../music/raiseYouUp.mp3)
+[Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
 
-[Bitch of Living](../music/bitchOfLiving.mp3)
+[Bitch of Living](../music/bitchOfLiving_balanced.mp3)
 
-[Creepy Old Guy](../music/creepyOldGuy.mp3)
+[Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
-[Big Spender](../music/heyBigSpender.mp4)
+[Big Spender](../music/bigSpender_balanced.mp3)
 
-[Sexy](../music/sexy.mp4)
+[Sexy](../music/sexy_balanced.mp3)
 
-[Hello Little Girl](../music/helloLittleGirl.mp4)
+[Hello Little Girl](../music/helloLittleGirl_balanced.mp3)
 
-[In Love With You](../music/inLoveWithYou.mp3)
+[In Love With You](../music/inLoveWithYou_balanced.mp3)
 
-[Say No To This](../music/SayNoToThis.m4a)
+[Say No To This](../music/sayNoToThis_balanced.mp3)
 
-[Sugar Daddy](../music/sugarDaddy.mp3)
+[Sugar Daddy](../music/sugarDaddy_balanced.mp3)
 
-[World Burn](../music/worldBurn.mp3)
+[World Burn](../music/worldBurn_balanced.mp3)
 
-[You're The One That I Want](../music/youreTheOneThatIWant.mp3)
+[You're The One That I Want](../music/youreTheOneIWant_balanced.mp3)
 
-[Roxy](../music/Roxie.mp3)
+[Roxy](../music/roxie_balanced.mp3)
+
+[I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
 
