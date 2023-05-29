@@ -27,7 +27,9 @@ Sheet music will be posted here as we pull it and annotate it.
 
 [Say No To This](../doc/SayNoToThis.pdf)
 
-[Sexy](../Sexy.pdf)
+[Sexy](../doc/Sexy.pdf)
+
+[Roxy](../doc/RoxyLyrics.pdf)
 
 ## Music tracks available for download
 
@@ -54,4 +56,6 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 [World Burn](../music/worldBurn.mp3)
 
 [You're The One That I Want](../music/youreTheOneThatIWant.mp3)
+
+[Roxy](../music/Roxie.mp3)
 
