@@ -38,11 +38,11 @@ The rest of the schedule is below. We are still working out who will be called w
 7/6 | Gibby | 6:30-9:30 | 6:30-7:15 Just Be / Living It Up; 7:15-8:15 Totally F'd; 8:15-9:30 Bitch of Living music  | Full Cast (minus Tay, Max, Sam) |
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-4:00 The Negative | Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen, Madey |
 7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam, Kim, Julie, James |
-7/13 | Annex | 6:30-9:30 | Choreo Review TBD | TBD |
-7/17 | Annex | 6:30-9:30 | 6:30-7:30 My Body Music; 7:30-8:30 Creepy Old Guy music; 8:30-9:30 Solo Sing Through w/Jen & Erin  | Quortney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen |
-7/20 | Annex | 6:30-9:30 | 6:30-8:30 Money, Money, Money  | Courtney, Tati, Kim, Erin, Julie, Madey, Jen | 
+7/13 | Annex | 6:30-9:30 | 6:30-7:00 Money, Money, Money music; Choreo Review TBD | Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen, (Full Cast) |
+7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | Luisa, Jess, Quortney, Grace, Rachel, Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen |
+7/20 | Annex | 6:30-9:30 | 6:30-7:30 My Body - Music; 7:30-8:30 Creepy Old Guy Music; 8:30-9:00 Solo Sing Through w/Erin and Jen  | Quortney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen | 
 7/22 | Annex | 1:00-4:00 | Music & Choreo Review TBD | TBD |
-7/24 | Annex | 6:30-9:30 | Music Review TBD | TBD |
+7/24 | Annex | 6:30-9:30 | Music Review TBD; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | (TBD), Luisa, Max, Madey |
 7/27 | Theater | 6:30-9:30 | Choreo Review TBD  | TBD |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast |
 8/3 | Theater | 6:30-9:30 | Run through - All  | All |
