@@ -20,6 +20,8 @@ Our rehearsals are Mondays and Thursdays from 6:30-9:30 and Saturday afternoons.
 
 The rest of the schedule is below. We are still working out who will be called when. Keep an eye on this page as it adjusts.
 
+The times are rough estimates but we will do our best to honor them. Arrive 5-15 minutes before your song call-time so you're ready to go, since some of the turnaround times are fast.
+
 | Date      | Location | Time | Agenda | Called |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 5/26 | Gibby | 6:30-9:30 | Intros; Raise You Up / Just Be  | All |
@@ -46,7 +48,7 @@ The rest of the schedule is below. We are still working out who will be called w
 7/27 | Theater | 6:30-9:30 | Choreo Review TBD  | TBD |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast |
 8/3 | Theater | 6:30-9:30 | Run through - All  | All |
-8/5 | Theater | 11:00-6:00 | Tech - All  | All |
+8/5 | Theater | 11:00-6:00 | Tech - All  | All (Quortney) |
 8/9 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All |
 8/10 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All |
 
