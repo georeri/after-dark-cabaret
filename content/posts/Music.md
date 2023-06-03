@@ -61,3 +61,5 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
 
+[Bring On The Men](../music/bringOnTheMen_balanced.mp3)
+
