@@ -35,21 +35,29 @@ Sheet music will be posted here as we pull it and annotate it.
 
 Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky! (The one with "balanced" in their filenames are the ones Erin has pre-adjusted for volume-mixing)
 
-[Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
+[As Long As You're Mine](../music/asLongAsYoureMine_balanced.mp3)
+
+[Bring On The Men](../music/bringOnTheMen_balanced.mp3)
 
 [Bitch of Living](../music/bitchOfLiving_balanced.mp3)
 
-[Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
-
 [Big Spender](../music/bigSpender_balanced.mp3)
 
-[Sexy](../music/sexy_balanced.mp3)
+[Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
 [Hello Little Girl](../music/helloLittleGirl_balanced.mp3)
 
+[I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
+
 [In Love With You](../music/inLoveWithYou_balanced.mp3)
 
+[Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
+
+[Roxy](../music/roxie_balanced.mp3)
+
 [Say No To This](../music/sayNoToThis_balanced.mp3)
+
+[Sexy](../music/sexy_balanced.mp3)
 
 [Sugar Daddy](../music/sugarDaddy_balanced.mp3)
 
@@ -57,9 +65,11 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [You're The One That I Want](../music/youreTheOneIWant_balanced.mp3)
 
-[Roxy](../music/roxie_balanced.mp3)
 
-[I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
 
-[Bring On The Men](../music/bringOnTheMen_balanced.mp3)
+
+
+
+
+
 
