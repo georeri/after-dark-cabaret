@@ -34,8 +34,8 @@ The times are rough estimates but we will do our best to honor them. Arrive 5-15
 6/17 | Annex | 1:00-4:00 | 1:00-2:30 Sincerely Me; 2:30-4:00 Say No To This | Performers in these songs |
 6/19 | Annex | 6:30-9:30 | 6:30-7:30 House of Holbein Choreo; 7:30-9:00 Livin It Up Choreo; 9:00-9:30 You're The One That I Want Choreo | Full Cast (Let us know if you'll be out for Juneteenth celebration) |
 6/22 | Gibby | 6:30-9:30 | 6:30-7:45 Bend & Snap Music; 7:45-9:00 Sexy Music | Grace, Olivia, Kendall, Tay, Evie, Moses, Madey, Nina, Gia (Erin) |
-6/24 | Theater | 1:00-4:00 | 12:30-1:15 As Long As You're Mine blocking; 1:15-1:14 World Burn blocking; 1:45-3:00 My Body blocking | Jess, Nick, Nina, Quortney, Tay, Jasmine, Tati |
-6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:30 You're the One That I Want blocking  | Full Cast (minus Spencer, Tay) (Erin out) |
+6/24 | Theater | 1:00-4:00 | 1:00-1:30 Say No To This Ensemble (Nina, Quortney, Tay, Jasmine, Tati, Jess, Jen); 1:30-2:00 World Burn blocking; 2:00-3:00 My Body blocking | Jen, Jess, Nina, Quortney, Tay, Jasmine, Tati |
+6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men, As Long As You're Mine blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:30 You're the One That I Want blocking  | Full Cast (minus Spencer, Tay) (Erin out) |
 6/29 | Gibby | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Lyo, Spencer, Jack, Sadie, Moses, Erin, Nina, Gia |
 7/6 | Gibby | 6:30-9:30 | 6:30-7:15 Just Be / Living It Up; 7:15-8:15 Totally F'd; 8:15-9:30 Bitch of Living music  | Full Cast (minus Tay, Max, Sam) |
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-4:00 The Negative | Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen, Madey |
