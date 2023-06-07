@@ -51,6 +51,8 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [In Love With You](../music/inLoveWithYou_balanced.mp3)
 
+[Life of the Party](../music/lifeOfTheParty_balanced.mp3)
+
 [Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
 
 [Roxy](../music/roxie_balanced.mp3)
