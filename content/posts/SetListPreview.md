@@ -41,19 +41,19 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | First Date | In Love With You | Max | 
 | Wicked | As Long As You're Mine | Jess & Nick | 
 | Hadestown | Living It Up On Top | James - Hermes; Tay - Persephone; Lyo - Orpheus; Full cast - ensemble (minus Max, Sam) | 
-| Six | House of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Quortney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
+| Six | House of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Qourtney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
 | Chicago | Roxy | Jen - Roxy; Dancers: Zephyr, Lyo, Moses, Nick | 
 | Grease | You're the One that I Want | Madey, Max | 
 | Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Andy - Yitzhak; Ensemble: Moses, Nick | 
 | Hamilton | Say No To This | Jose - A. Ham, Jasmine - Maria; James - Husband/Burr | 
 | Spring Awakening | Totally Fucked | Jess - Hanschen; Andy - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) | 
 | into the woods | hello little girl | Sam, Max | 
-| The Life | My Body | Quortney, Tatiana, Tay, Jasmine | 
+| The Life | My Body | Qourtney, Tatiana, Tay, Jasmine | 
 | Annie | Easy Street | Kim - Hannigan; James - Rooster; Julie - Lily | 
 | Mean Girls | Sexy | Karen - Sadie; Gretchen - Kendall; Ensemble: Roosevelt - Hannah, Corn - Evie; Fisherman - Grace; Pirate - Olivia; Rosa Parks - Tay; Ballet - Nina | 
 | Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; | 
 | Mean Girls | World Burn | Nina | 
 | Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Kim, Julie, Erin, Madey, Jen | 
-| Godspell | Turn Back, O man | Lead - Luisa; Dancers: Jess, Quortney, Grace, Rachel | 
+| Godspell | Turn Back, O man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 
 | Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Andy - Adam&Charles; Kim - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Erin, Jen | 
-| Kinky Boots | Raise You Up/Just Be | Moses - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Quortney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
+| Kinky Boots | Raise You Up/Just Be | Moses - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
