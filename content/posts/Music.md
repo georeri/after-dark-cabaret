@@ -45,6 +45,8 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
+[Easy Street](../music/easyStreet_balanced.mp3)
+
 [Hello Little Girl](../music/helloLittleGirl_balanced.mp3)
 
 [I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
