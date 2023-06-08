@@ -41,7 +41,7 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Bitch of Living](../music/bitchOfLiving_balanced.mp3)
 
-[Big Spender](../music/bigSpender_balanced.mp3)
+[Big Spender](../music/bigSpender_balanced.mp3) **Updated with new arrangement on 6/8
 
 [Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
