@@ -19,17 +19,19 @@ summary: Sheet music and backing tracks
 
 Sheet music will be posted here as we pull it and annotate it.
 
-[Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
-
 [Big Spender](../doc/BigSpender.pdf)
 
 [Bitch of Living](../doc/BitchOfLiving.pdf)
 
+[Cell Block Tango](../doc/CellBlockTango-FMinor.pdf)
+
+[Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
+
+[Roxy](../doc/RoxyLyrics.pdf)
+
 [Say No To This](../doc/SayNoToThis.pdf)
 
 [Sexy](../doc/Sexy.pdf)
-
-[Roxy](../doc/RoxyLyrics.pdf)
 
 ## Music tracks available for download
 
