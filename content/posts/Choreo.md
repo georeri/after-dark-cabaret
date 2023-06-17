@@ -28,3 +28,5 @@ Madey is Spencer and Max is Jack
 
 [Cell Block Tango](../video/CellBlock_Choreo.MOV)
 
+[Sincerely, Me](../video/SincerelyMe_Choreo.MOV) Don't forget that you start farther apart at the beginning, and that Lyo leaves the stage when Zephyr and Evie go up the stairs.
+
