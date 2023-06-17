@@ -51,11 +51,15 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Hello Little Girl](../music/helloLittleGirl_balanced.mp3)
 
+[House of Holbein](../music/houseOfHolbein_balanced.mp3)
+
 [I'm Breaking Down](../music/imBreakingDown_balanced.mp3)
 
 [In Love With You](../music/inLoveWithYou_balanced.mp3)
 
 [Life of the Party](../music/lifeOfTheParty_balanced.mp3)
+
+[Livin' It Up On Top](../music/livinItUpOnTop_balanced.mp3)
 
 [Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
 
@@ -64,6 +68,8 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 [Say No To This](../music/sayNoToThis_balanced.mp3)
 
 [Sexy](../music/sexy_balanced.mp3)
+
+[Sincerely Me](../music/sincerelyMe_balanced.mp3)
 
 [Sugar Daddy](../music/sugarDaddy_balanced.mp3)
 
