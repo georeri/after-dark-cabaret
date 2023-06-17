@@ -47,11 +47,11 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Andy - Yitzhak; Ensemble: Moses, Nick | 
 | Hamilton | Say No To This | Jose - A. Ham, Jasmine - Maria; James - Husband/Burr | 
 | Spring Awakening | Totally Fucked | Jess - Hanschen; Andy - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) | 
-| into the woods | hello little girl | Sam, Max | 
+| Into The Woods | Hello Little Girl | Sam, Max | 
 | The Life | My Body | Qourtney, Tatiana, Tay, Jasmine | 
 | Annie | Easy Street | Kim - Hannigan; James - Rooster; Julie - Lily | 
 | Mean Girls | Sexy | Karen - Sadie; Gretchen - Kendall; Ensemble: Roosevelt - Hannah, Corn - Evie; Fisherman - Grace; Pirate - Olivia; Rosa Parks - Tay; Ballet - Nina | 
-| Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; | 
+| Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
 | Mean Girls | World Burn | Nina | 
 | Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Kim, Julie, Erin, Madey, Jen | 
 | Godspell | Turn Back, O man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 

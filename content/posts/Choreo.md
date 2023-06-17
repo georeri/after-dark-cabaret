@@ -1,6 +1,6 @@
 ---
 title: "Choreo Notes and Videos"
-date: 2023-05-20
+date: 2023-06-13
 categories:
 - choreo
 tags:
