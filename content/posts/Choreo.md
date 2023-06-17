@@ -1,6 +1,6 @@
 ---
 title: "Choreo Notes and Videos"
-date: 2023-06-13
+date: 2023-06-17
 categories:
 - choreo
 tags:
@@ -29,4 +29,6 @@ Madey is Spencer and Max is Jack
 [Cell Block Tango](../video/CellBlock_Choreo.MOV)
 
 [Sincerely, Me](../video/SincerelyMe_Choreo.MOV) Don't forget that you start farther apart at the beginning, and that Lyo leaves the stage when Zephyr and Evie go up the stairs.
+
+[Say No To This](../video/SayNoToThis_Choreo.MOV)
 
