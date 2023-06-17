@@ -33,6 +33,8 @@ Sheet music will be posted here as we pull it and annotate it.
 
 [Sexy](../doc/Sexy.pdf)
 
+[Sincerely, Me](../doc/SincerelyMe.pdf)
+
 ## Music tracks available for download
 
 Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky! (The one with "balanced" in their filenames are the ones Erin has pre-adjusted for volume-mixing)

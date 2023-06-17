@@ -6,13 +6,31 @@
     <description>Recent content in Categories on After Dark Cabaret</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://after-dark-cabaret-info.dramaproducer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://after-dark-cabaret-info.dramaproducer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>https://after-dark-cabaret-info.dramaproducer.com/categories/music/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>schedule</title>
       <link>https://after-dark-cabaret-info.dramaproducer.com/categories/schedule/</link>
-      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choreo</title>
+      <link>https://after-dark-cabaret-info.dramaproducer.com/categories/choreo/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/choreo/</guid>
       <description></description>
     </item>
     
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>choreo</title>
-      <link>https://after-dark-cabaret-info.dramaproducer.com/categories/choreo/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/choreo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>marketing</title>
       <link>https://after-dark-cabaret-info.dramaproducer.com/categories/marketing/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://after-dark-cabaret-info.dramaproducer.com/categories/music/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://after-dark-cabaret-info.dramaproducer.com/categories/music/</guid>
       <description></description>
     </item>
     
