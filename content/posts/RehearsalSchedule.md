@@ -25,11 +25,13 @@ The times are rough estimates but we will do our best to honor them. Arrive 5-15
 *** RECENT CHANGE: Moved big spender choreo from 6/19 to Monday 6/26 at 8:00. 
 Removed You're the One That I Want from 6/26 ***
 
+*** 6/24 is currently being reworked. Keep an eye here and on your email in case you are called ***
+
 | Date      | Location | Time | Agenda | Called |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 6/19 | Annex | 6:30-9:00 | 6:30-7:30 House of Holbein Choreo; 7:30-9:00 Livin It Up Choreo;  | Holbein leads - 6:30. Full Cast - 7:10 (Let us know if you'll be out for Juneteenth celebration) |
 6/22 | Gibby | 6:30-9:30 | 6:30-7:45 Bend & Snap Music; 7:45-9:00 Sexy Music | Grace, Olivia, Kendall, Tay, (Evie), Moses, Madey, Nina, Gia (Erin) **NOTE:** Non-listed ensemble in Bend&Snap are not called for this one |
-6/24 | Theater | 1:00-4:00 | 1:00-1:30 Say No To This Ensemble (Nina, Qourtney, Tay, Jasmine, Tati, Jess, Jen); 1:30-2:00 World Burn blocking; 2:00-3:00 My Body blocking | Jen, Jess, Nina, Qourtney, Tay, Jasmine, Tati |
+6/24 | Theater | 1:00-4:00 | 1:00-1:30 Say No To This Ensemble (Nina, Qourtney, Tay, Jasmine, Tati, Jess, Jen); 1:30-2:00 World Burn blocking; 2:00-3:00 My Body blocking **CURRENTLY REWORKING SCHEDULE** | Jen, Jess, Nina, Qourtney, Tay, Jasmine, Tati |
 6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast minus Spencer, Tay, Max, Sam); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men, As Long As You're Mine blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:00 Big Spender Choreo (Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine) | Full Cast (minus Spencer, Tay) (Erin, Evie out) |
 6/29 | Gibby | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Sadie, Erin, Nina, Gia (Moses, Jack, Spencer, Lyo not called - added at a later rehearsal) |
 7/6 | Gibby | 6:30-9:30 | 6:30-7:15 Just Be / Living It Up; 7:15-8:15 Totally F'd; 8:15-9:30 Bitch of Living music  | Full Cast (Minus Max, Sam) |
