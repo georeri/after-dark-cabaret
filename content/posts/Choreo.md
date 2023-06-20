@@ -32,3 +32,6 @@ Madey is Spencer and Max is Jack
 
 [Say No To This](../video/SayNoToThis_Choreo.MOV)
 
+[House of Holbein](../video/HouseOfHolbein_CHOREO.MOV) Evie is standing in for Qourtney. Ensemble members will be in aisles on the floor.
+
+[Living It Up On Top](../video/LivingItUp_Choreo.MOV) Nina joins the quartet after Evie (twirl group) and sits at Madey's table. Grace joins the pas de bouree group after Erin and sits at Olivia's table. Other missing ensemble members are in the alcove at stage L.
