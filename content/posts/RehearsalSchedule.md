@@ -24,21 +24,17 @@ The times are rough estimates but we will do our best to honor them. Arrive 5-15
 
 
 **RECENT CHANGES:**
-- 6/22 was incorrect - all female ensemble ARE called for bend&snap. Lyo, Spencer, Jack, Moses are not called. Ensemble for Sexy will stay 15ish minutes to learn the group part of that song and then all but Sadie will be dismissed.
-- 6/24 will stay as is. We will catch Qourtney up on 7/8
+- 7/6 Restructured completely - see schedule
 - 7/8 added My Body full run through. All performers in that song called at 2:30 that day
-- The table below SHOULD scroll now, so you don't have to turn your phone sideways.
+- 7/13 Updated and still TBD
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
-6/22 | Gibby | 6:30-9:30 | 6:30-7:45 Bend & Snap Music(females only); 7:45-9:00 Sexy Music | Grace, Olivia, Kendall, Tay, Sadie, (Evie), Madey, Nina, Hannah, (Erin)  |
-6/24 | Theater | 1:00-4:00 | 1:00-1:30 Say No To This Ensemble (Nina, Tay, Jasmine, Tati, Jess, Jen); 1:30-2:00 World Burn blocking; 2:00-3:00 My Body blocking | Jen, Jess, Nina, (Qourtney), Tay, Jasmine, Tati |
-6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast minus Spencer, Tay, Max, Sam); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men, As Long As You're Mine blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:00 Big Spender Choreo (Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine) | Full Cast (minus Spencer, Tay) (Erin, Evie out) |
-6/29 | Gibby | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Sadie, Erin, Nina, Gia (Moses, Jack, Spencer, Lyo not called - added at a later rehearsal) |
-7/6 | Gibby | 6:30-9:30 | 6:30-7:15 Just Be / Living It Up; 7:15-8:15 Totally F'd; 8:15-9:30 Bitch of Living music  | Full Cast (Minus Max, Sam) |
-7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen, Madey, Qourtney, Tay, Jasmine, Tati |
-7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam, Kim, Julie, James |
-7/13 | Annex | 6:30-9:30 | 6:30-7:00 Money, Money, Money music; Choreo Review TBD | Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen, (Full Cast) |
+6/29 | Theater | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Sadie, Erin, Nina, Gia (Moses, Jack, Spencer, Lyo not called - added at a later rehearsal) |
+7/6 | Theater | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Kim, Julie, Erin, Madey, (Jen); COG: Evie, Andy, Kim, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
+7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
+7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
+7/13 | Annex | 6:30-9:30 | 6:30-7:00 Review Just Be/Living It Up Music; 7:00-9:00 Choreo Review TBD | Full Cast |
 7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | Luisa, Jess, Qourtney, Grace, Rachel, Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen |
 7/20 | Annex | 6:30-9:30 | 6:30-7:30 My Body - Music; 7:30-8:30 Creepy Old Guy Music; 8:30-9:00 Solo Sing Through w/Erin and Jen  | Qourtney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen | 
 7/22 | Annex | 1:00-4:00 | Music & Choreo Review TBD | TBD |
@@ -66,3 +62,6 @@ Completed Rehearsals:
 6/15 | Gibby | 6:30-9:30 | Raise You Up - Music; Livin' It Up On Top; House of Holbein | Full Cast |
 6/17 | Annex | 1:00-3:00 | 1:00-2:00 Sincerely Me; 2:00-3:00 Say No To This Staging | Performers in these songs |
 6/19 | Theater | 6:30-9:00 | 6:30-7:30 House of Holbein Choreo; 7:30-9:00 Livin It Up Choreo;  | Holbein leads - 6:30. Full Cast (Minus Max,Sam) - 7:10 (Let us know if you'll be out for Juneteenth celebration) |
+6/22 | Gibby | 6:30-9:30 | 6:30-7:45 Bend & Snap Music(females only); 7:45-9:00 Sexy Music | Grace, Olivia, Kendall, Tay, Sadie, (Evie), Madey, Nina, Hannah, (Erin)  |
+6/24 | Theater | 1:00-4:00 | 1:00-1:30 Say No To This Ensemble (Nina, Tay, Jasmine, Tati, Jess, Jen); 1:30-2:00 World Burn blocking; 2:00-3:00 My Body blocking | Jen, Jess, Nina, (Qourtney), Tay, Jasmine, Tati |
+6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast minus Spencer, Tay, Max, Sam); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men, As Long As You're Mine blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:00 Big Spender Choreo (Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine) | Full Cast (minus Spencer, Tay) (Erin, Evie out) |

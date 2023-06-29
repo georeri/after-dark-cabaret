@@ -50,7 +50,7 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Into The Woods | Hello Little Girl | Sam, Max | 
 | The Life | My Body | Qourtney, Tatiana, Tay, Jasmine | 
 | Annie | Easy Street | Kim - Hannigan; James - Rooster; Julie - Lily | 
-| Mean Girls | Sexy | Karen - Sadie; Gretchen - Kendall; Ensemble: Roosevelt - Hannah, Corn - Evie; Fisherman - Grace; Pirate - Olivia; Rosa Parks - Tay; Ballet - Nina | 
+| Mean Girls | Sexy | Karen - Sadie; Gretchen - Kendall; Ensemble: Roosevelt - Hannah, Corn - Evie; Fisherman - Grace; Pirate - Olivia; Rosa Parks - Tay; Ballet - Nina; Shark - Gia; | 
 | Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
 | Mean Girls | World Burn | Nina | 
 | Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Kim, Julie, Erin, Madey, Jen | 
