@@ -51,11 +51,17 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [As Long As You're Mine](../music/asLongAsYoureMine_balanced.mp3)
 
-[Bring On The Men](../music/bringOnTheMen_balanced.mp3)
+[Bend And Snap](../music/bendAndSnap_balanced.mp3)
 
 [Bitch of Living](../music/bitchOfLiving_balanced.mp3)
 
 [Big Spender](../music/bigSpender_balanced.mp3) **Updated with new arrangement on 6/8
+
+[Bring On The Men](../music/bringOnTheMen_balanced.mp3)
+
+TBD: CABARET
+
+TBD: CELL BLOCK TANGO
 
 [Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
@@ -73,9 +79,15 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Livin' It Up On Top](../music/livinItUpOnTop_balanced.mp3)
 
+TBD: MONEY, MONEY, MONEY
+
+TBD: MY BODY
+
+TBD: THE NEGATIVE
+
 [Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
 
-[Roxy](../music/roxie_balanced.mp3)
+[Roxie](../music/roxie_balanced.mp3)
 
 [Say No To This](../music/sayNoToThis_balanced.mp3)
 
@@ -84,6 +96,10 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 [Sincerely Me](../music/sincerelyMe_balanced.mp3)
 
 [Sugar Daddy](../music/sugarDaddy_balanced.mp3)
+
+TBD: TOTALLY FD
+
+TBD: TURN BACK, O MAN
 
 [World Burn](../music/worldBurn_balanced.mp3)
 
