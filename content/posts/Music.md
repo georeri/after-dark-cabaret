@@ -23,7 +23,15 @@ Sheet music will be posted here as we pull it and annotate it.
 
 [Bitch of Living](../doc/BitchOfLiving.pdf)
 
+[Creepy Old Guy](../doc/CreepyOldGuy.pdf)
+
 [Cell Block Tango](../doc/CellBlockTango-FMinor.pdf)
+
+[Haus of Holbein](../doc/HausofHolbein.pdf)
+
+[Living It Up On Top](../doc/livinitupontop.pdf)
+
+[Money Money Money](../doc/MoneyMoneyMoney.pdf)
 
 [Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
 
@@ -34,6 +42,8 @@ Sheet music will be posted here as we pull it and annotate it.
 [Sexy](../doc/Sexy.pdf)
 
 [Sincerely, Me](../doc/SincerelyMe.pdf)
+
+[Totally Fd](../doc/TOTALLYFD.pdf)
 
 ## Music tracks available for download
 
