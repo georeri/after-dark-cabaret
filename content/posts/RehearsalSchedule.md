@@ -16,13 +16,6 @@ url: rehearsal-schedule.html
 summary: Look here for the current rehearsal schedule
 ---
 
-Our rehearsals are Mondays and Thursdays from 6:30-9:30 and Saturday afternoons. 
-
-The rest of the schedule is below. We are still working out who will be called when. Keep an eye on this page as it adjusts.
-
-The times are rough estimates but we will do our best to honor them. Arrive 5-15 minutes before your song call-time so you're ready to go, since some of the turnaround times are fast.
-
-
 **RECENT CHANGES:**
 - 7/6 Restructured completely - see schedule
 - 7/8 added My Body full run through. All performers in that song called at 2:30 that day
@@ -35,7 +28,7 @@ The times are rough estimates but we will do our best to honor them. Arrive 5-15
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
 7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
 7/13 | Annex | 6:30-9:30 | 6:30-7:00 Review Just Be/Living It Up Music; 7:00-9:00 Choreo Review TBD | Full Cast |
-7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | Luisa, Jess, Qourtney, Grace, Rachel, Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen |
+7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Kim, Julie, Erin, Madey, Jen |
 7/20 | Annex | 6:30-9:30 | 6:30-7:30 My Body - Music; 7:30-8:30 Creepy Old Guy Music; 8:30-9:00 Solo Sing Through w/Erin and Jen  | Qourtney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen | 
 7/22 | Annex | 1:00-4:00 | Music & Choreo Review TBD | TBD |
 7/24 | Annex | 6:30-9:30 | Music Review TBD; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | (TBD), Luisa, Max, Madey |

@@ -35,3 +35,19 @@ Madey is Spencer and Max is Jack
 [House of Holbein](../video/HouseOfHolbein_CHOREO.MOV) Evie is standing in for Qourtney. Ensemble members will be in aisles on the floor.
 
 [Living It Up On Top](../video/LivingItUp_Choreo.MOV) Nina joins the quartet after Evie (twirl group) and sits at Madey's table. Grace joins the pas de bouree group after Erin and sits at Olivia's table. Other missing ensemble members are in the alcove at stage L.
+
+[Sugar Daddy](../video/SugarDaddy.mp4) Hannah is standing in for Andy in Sugar Daddy
+
+[Bring On The Men](../video/BringontheMen.mp4)
+
+[Big Spender](../video/BigSpender.mp4)
+
+[In Love With You](../video/InLoveWithYou.mp4)
+
+[My Body](../video/MyBody.mp4) Jes is standing in for Qourtney
+
+[Totally Fd](../video/TotallyFed.mov)
+
+[World Burn](../video/WorldBurn.mp4)
+
+[Hello Little Girl](../video/HelloLittleGirl.MOV)
