@@ -46,6 +46,8 @@ Madey is Spencer and Max is Jack
 
 [Say No To This](../video/SayNoToThis_Choreo.MOV)
 
+[Sexy](../video/Sexy.MOV)
+
 [Sincerely, Me](../video/SincerelyMe_Choreo.MOV) Don't forget that you start farther apart at the beginning, and that Lyo leaves the stage when Zephyr and Evie go up the stairs.
 
 [Sugar Daddy](../video/SugarDaddy.mp4) Hannah is standing in for Andy in Sugar Daddy
