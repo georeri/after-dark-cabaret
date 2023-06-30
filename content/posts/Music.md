@@ -19,6 +19,8 @@ summary: Sheet music and backing tracks
 
 Sheet music will be posted here as we pull it and annotate it.
 
+[Bend and Snap](../doc/BendAndSnap.pdf)
+
 [Big Spender](../doc/BigSpender.pdf)
 
 [Bitch of Living](../doc/BitchOfLiving.pdf)
