@@ -35,6 +35,18 @@ Sheet music will be posted here as we pull it and annotate it.
 
 [Money Money Money](../doc/MoneyMoneyMoney.pdf)
 
+--------------
+[The Negative](../doc/Theegative.pdf)
+
+The Negative VOCAL Tracks avaialable:
+
+- [Madey](../music/negative-vocals_MADEY.mp3)
+- [Jen](../music/negative-vocals_JEN.mp3)
+- [Erin](../music/negative-vocals_ERIN.mp3)
+
+--------------
+
+
 [Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
 
 [Roxy](../doc/RoxyLyrics.pdf)
