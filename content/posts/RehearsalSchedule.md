@@ -24,7 +24,7 @@ summary: Look here for the current rehearsal schedule
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
 6/29 | Theater | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Sadie, Erin, Nina, Gia (Moses, Jack, Spencer, Lyo not called - added at a later rehearsal) |
-7/6 | Theater | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Kim, Julie, Erin, Madey, (Jen); COG: Evie, Andy, Kim, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
+7/6 | Gibby | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Kim, Julie, Erin, Madey, (Jen); COG: Evie, Andy, Kim, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Kim, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
 7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
 7/13 | Annex | 6:30-9:30 | 6:30-7:00 Review Just Be/Living It Up Music; 7:00-9:00 Choreo Review TBD | Full Cast |
