@@ -37,9 +37,9 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Wild Party | Life of the Party | Sam | 
 | Mean Girls | Sexy | Karen - Sadie; Gretchen - Kendall; Ensemble: Roosevelt - Hannah, Corn - Evie; Fisherman - Grace; Pirate - Olivia; Rosa Parks - Tay; Ballet - Nina; Shark - Gia; | 
 | Dear Evan Hansen | Sincerely, Me | Zephyr - Connor; Evie - Evan; Lyo - Jared; | 
-| Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Kim, Julie, Erin, Madey, Jen | 
-| Godspell | Turn Back, O man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 
-| Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Andy - Adam&Charles; Kim - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Erin, Jen |
+| Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Julie, Erin, Madey, Jen | 
+| Godspell | Turn Back, O Man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 
+| Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Andy - Adam&Charles; Erin - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Jen |
 | Mean Girls | World Burn | Nina |  
 | Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; Andy - Georg; Jack - Moritz; Nick - Otto | 
 | Waitress | The Negative | Jen - Dawn; Erin - Becky; Madey - Jenna | 
