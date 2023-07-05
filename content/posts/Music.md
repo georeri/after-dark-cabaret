@@ -29,6 +29,8 @@ Sheet music will be posted here as we pull it and annotate it.
 
 [Cell Block Tango](../doc/CellBlockTango-FMinor.pdf)
 
+[Easy Street](../doc/EasyStreet.pdf)
+
 [Haus of Holbein](../doc/HausofHolbein.pdf)
 
 [I'm Breaking Down](../doc/ImBreakingDown.pdf)
@@ -81,7 +83,7 @@ TBD: CELL BLOCK TANGO
 
 [Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
-[Easy Street](../music/easyStreet_balanced.mp3)
+[Easy Street](../music/easyStreet_balanced.mp3) **Updated with extra 8 bars of dance break removed on 7/5
 
 [Hello Little Girl](../music/helloLittleGirl_balanced.mp3)
 
