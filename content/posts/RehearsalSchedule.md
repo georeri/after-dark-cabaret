@@ -23,18 +23,18 @@ summary: Look here for the current rehearsal schedule
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
-7/6 | Gibby | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Julie, Erin, Madey, (Jen); COG: Evie, Andy, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
+7/6 | Gibby | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Julie, Erin, Madey, (Jen), Jess; COG: Evie, Andy, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
 7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
 7/13 | Annex | 6:30-9:30 | 6:30-7:00 Review Just Be/Living It Up Music; 7:00-9:00 Choreo Review TBD | Full Cast |
-7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen |
+7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen, Jess |
 7/20 | Annex | 6:30-9:30 | 6:30-7:30 My Body - Music; 7:30-8:30 Creepy Old Guy Music; 8:30-9:00 Solo Sing Through w/Erin and Jen  | Qourtney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen | 
 7/22 | Annex | 1:00-4:00 | Music & Choreo Review TBD | TBD |
 7/24 | Annex | 6:30-9:30 | Music Review TBD; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | (TBD), Luisa, Max, Madey |
-7/27 | Theater | 6:30-9:30 | Choreo Review TBD  | TBD |
-7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast |
+7/27 | Theater | 6:30-9:30 | Choreo Review TBD  | TBD (Erin, Evie) |
+7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast (Erin, Evie) |
 8/3 | Theater | 6:30-9:30 | Run through - All  | All |
-8/5 | Theater | 11:00-6:00 | Tech - All  | All (Qourtney) |
+8/5 | Theater | 11:00-6:00 | Tech - All  | All (Qourtney, Erin) |
 8/9 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All - MANDATORY |
 8/10 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All - MANDATORY |
 
