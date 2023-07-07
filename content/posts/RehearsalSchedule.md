@@ -17,20 +17,19 @@ summary: Look here for the current rehearsal schedule
 ---
 
 **RECENT CHANGES:**
-- 7/6 Restructured completely - see schedule
 - 7/8 added My Body full run through. All performers in that song called at 2:30 that day
-- 7/13 Updated and still TBD
+- 7/13 and on updated - still under review. Assume you are called to every rehearsal and try to book the time, just in case. We're going to call things that need the extra time.
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
 7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
 7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
-7/13 | Annex | 6:30-9:30 | 6:30-7:00 Review Just Be/Living It Up Music; 7:00-9:00 Choreo Review All Full Cast Numbers | Full Cast |
+7/13 | Annex | 6:30-9:30 | 6:30-9:30 Review ALL Full Cast Numbers (we'll do Totally F'd last, so those of you not in it can leave early) | Full Cast (minus Max and Sam) |
 7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen, Jess |
-7/20 | Annex | 6:30-9:30 | 6:30-7:30 My Body - Music; 7:30-8:30 Creepy Old Guy Music; 8:30-9:00 Solo Sing Through w/Erin and Jen  | Qourtney, Tati, Tay, Jasmine, Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen | 
-7/22 | Annex | 1:00-4:00 | Music & Choreo Review TBD | Full Cast |
-7/24 | Annex | 6:30-9:30 | Music Review TBD; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | (TBD), Luisa, Max, Madey (Zephyr) |
-7/27 | Theater | 6:30-9:30 | Stumble Through entire show (bring something to entertain yourself!)  | Full Cast (Erin, Evie out) |
+7/20 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:30 My Body Run Through; 7:30-8:30 Cell Block Run Through; 8:30-9:30 World Burn Run Through; | MB: Qourtney, Tati, Tay, Jasmine, CB: Madey, Luisa, Nina, Rachel, Jasmine, Erin, WB: Nina, Jasmine, Luisa, Madey | 
+7/22 | Annex | 1:00-4:00 | OFF BOOK 1:00-2:00 Bend and Snap Full Run Through; 2:00-3:00 Sexy Full Run Through; 3:00-4:00 Bitch of Living: Full Run Through | BAS: Grace, Olivia, Kendall, Tay, Evie, Hanna, Lyo, Spencer, Jack, Sadie, Moses, Erin, Madey, Nina, Gia; S: Sadie, Kendall, Hannah, Evie, Grace, Olivia, Tay, Nina, Gia; BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick |
+7/24 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:00 Big Spender Run Through; 7:00-7:30 Sugar Daddy Run Through; 7:30-8:00 Roxie Run Through; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | BS: Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine; SD: Jose, Andy, Nick; Roxie: Jen, (Zephyr), Lyo, Max, Nick; TBOM: Luisa; YTTTIW: Max, Madey |
+7/27 | Theater | 6:30-9:30 | OFF BOOK Stumble Through entire show (bring something to entertain yourself!)  | Full Cast (Erin, Evie out) |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast (Erin, Evie out) |
 8/3 | Theater | 6:30-9:30 | Run through - All  | All |
 8/5 | Theater | 11:00-6:00 | Tech - All  | All (Qourtney, Erin) |
