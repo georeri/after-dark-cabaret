@@ -1,6 +1,6 @@
 ---
 title: "Rehearsal Schedule"
-date: 2023-06-29
+date: 2023-07-08
 categories:
 - schedule
 tags:

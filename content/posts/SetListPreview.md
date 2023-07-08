@@ -58,7 +58,7 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Six | House of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Qourtney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
 | Into The Woods | Hello Little Girl | Sam, Max | 
 | Falsettos | I'm Breaking Down | Erin | 
-| Spring Awakening | Totally Fucked | Jess - Hanschen; TBD - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) |
+| Spring Awakening | Totally Fucked | Jess - Hanschen; Gia - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) |
 | Chicago | Roxie | Jen - Roxy; Dancers: Zephyr, Lyo, Max, Nick | 
 | Grease | You're the One that I Want | Madey, Max | 
 | Hamilton | Say No To This | Jose - A. Ham, Jasmine - Maria; James - Husband/Burr | 
