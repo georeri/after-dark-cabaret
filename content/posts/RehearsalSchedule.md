@@ -17,18 +17,17 @@ summary: Look here for the current rehearsal schedule
 ---
 
 **RECENT CHANGES:**
-- 7/8 added My Body full run through. All performers in that song called at 2:30 that day
-- 7/13 and on updated - still under review. Assume you are called to every rehearsal and try to book the time, just in case. We're going to call things that need the extra time.
+- 7/10 took out Easy Street and moved to 7/17, since Jen is out of town
+- 7/13 and on updated - still under review. Assume you are called to every rehearsal and try to book the time, just in case. We're going to call things that need the extra time. Also note that we've had to swap some parts due to cast changes. If you are in a song, and don't see your name listed, please COME. We didn't meant to exclude you. The Set List page is the cannonical source for who is in what number.
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
-7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
-7/10 | Annex | 6:30-9:30 | 6:30-8:00 Cabaret music&choreo; 8:00-9:30 Easy Street choreo  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, Sam; ES: Kim, Julie, James |
-7/13 | Theater | 6:30-9:30 | 6:30-9:30 Review ALL Full Cast Numbers (we'll do Totally F'd last, so those of you not in it can leave early) | Full Cast (minus Max and Sam) |
-7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging; 8:30-9:00 Sugar Daddy Music for Ensemble only  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen, Jess; SD: Zephyr, Hannah, Nick |
+7/10 | Annex | 6:30-8:00 | 6:30-8:00 Cabaret music&choreo;  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, (Sam); |
+7/13 | Theater | 6:30-9:00 | 6:30-8:00 Review ALL Full Cast Numbers (we'll do Totally F'd last, so those of you not in it can leave early). We may run past 8, so prepare your rides accordingly; 8:00-8:30 (Theater) Sincerely Me OFFBOOK run through; 8:00-8:30 (ANNEX) - Sugar Daddy music for Ensemble Only (unless Jose wants to stay) | Full Cast (minus Max and Sam) |
+7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging; 8:30-9:30 Easy Street Staging;  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen, Jess; SD: Zephyr, Hannah, Nick; |
 7/20 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:30 My Body Run Through; 7:30-8:30 Cell Block Run Through; 8:30-9:30 World Burn Run Through; | MB: Qourtney, Tati, Tay, Jasmine, CB: Madey, Luisa, Nina, Rachel, Jasmine, Erin, WB: Nina, Jasmine, Luisa, Madey | 
 7/22 | Annex | 1:00-4:00 | OFF BOOK 1:00-2:00 Bend and Snap Full Run Through; 2:00-3:00 Sexy Full Run Through; 3:00-4:00 Bitch of Living: Full Run Through | BAS: Grace, Olivia, Kendall, Tay, Evie, Hanna, Lyo, Spencer, Jack, Sadie, Moses, Erin, Madey, Nina, Gia; S: Sadie, Kendall, Hannah, Evie, Grace, Olivia, Tay, Nina, Gia; BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick |
-7/24 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:00 Big Spender Run Through; 7:00-7:30 Sugar Daddy Run Through; 7:30-8:00 Roxie Run Through; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | BS: Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine; SD: Jose, Andy, Nick; Roxie: Jen, (Zephyr), Lyo, Max, Nick; TBOM: Luisa; YTTTIW: Max, Madey |
+7/24 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:00 Big Spender Run Through; 7:00-7:30 Sugar Daddy Run Through; 7:30-8:00 Roxie Run Through; 8:30-8:45 Turn Back O Man - Luisa ONLY; 8:45-9:00 You're the One That I Want - Music | BS: Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine; SD: Jose, Hannah, (Zephyr), Nick; Roxie: Jen, (Zephyr), Lyo, Max, Nick; TBOM: Luisa; YTTTIW: Max, Madey |
 7/27 | Theater | 6:30-9:30 | OFF BOOK Stumble Through entire show (bring something to entertain yourself!)  | Full Cast (Erin, Evie out) |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast (Erin, Evie out) |
 8/3 | Theater | 6:30-9:30 | Run through - All  | All |
@@ -57,3 +56,4 @@ Completed Rehearsals:
 6/26 | Annex | 6:30-9:30 | **ROOM1:** 6:30-8:00 Totally F'd (Full Cast minus Spencer, Tay, Max, Sam); 8:00-8:45 Sugar Daddy blocking w/Jose,Andy,Moses,Nick; 8:45-9:30 Bring On the Men, As Long As You're Mine blocking; **ROOM2:** 6:30-7:15 Hello Little Girl blocking; 7:15-8:00 Solo staging for Max and Sam; 8:00-9:00 Big Spender Choreo (Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine) | Full Cast (minus Spencer, Tay) (Erin, Evie out) |
 6/29 | Theater | 6:30-9:30 | 6:30-8:00 Bend&Snap Choreo; 8:00-9:30 Sexy Choreo | Grace, Olivia, Kendall, Tay, Evie, Hannah, Sadie, Erin, Nina, Gia (Moses, Jack, Spencer, Lyo not called - added at a later rehearsal) |
 7/6 | Gibby | 6:30-9:30 | 6:30-7:00 Money,Money,Money music; 7:00-8:00 Creepy Old Guy Music; 8:00-8:35 Bitch of Living; 8:30-9:00 Sincerely Me | MMM: Courtney, Tatiana, Julie, Erin, Madey, (Jen), Jess; COG: Evie, Andy, Abby, Zephyr, Hannah, Lyo, Gia, Erin, (Jen); BOL: Zephyr, Lyo, Spencer, Andy, Jack, Nick; SM: Lyo, Evie, Zephyr |
+7/8 | Gibby | 1:00-5:00 | 1:00-2:30 Creepy Old Guy; 2:30-3:30 My Body full run through; 3:30-4:30 The Negative | COG: Evie, Lyo, Andy, Abby, Zephyr, Hannah, Gia, Erin, Jen; MB: Qourtney, Tay, Jasmine, Tati; TN: Jen, Madey, Erin  |
