@@ -39,9 +39,9 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Dear Evan Hansen | Sincerely, Me | Zephyr - Connor; Evie - Evan; Lyo - Jared; | 
 | Mamma Mia | Money, Money, Money | Courtney - Lead; Ensemble - Tatiana, Julie, Erin, Madey, Jen, Jess | 
 | Godspell | Turn Back, O Man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 
-| Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Andy - Adam&Charles; Erin - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Jen |
+| Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Jess - Adam&Charles; Erin - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Jen, Madey |
 | Mean Girls | World Burn | Nina |  
-| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; Andy - Georg; Jack - Moritz; Nick - Otto | 
+| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; TBD - Georg; Jack - Moritz; Nick - Otto | 
 | Waitress | The Negative | Jen - Dawn; Erin - Becky; Madey - Jenna | 
 | The Life | My Body | Qourtney, Tatiana, Tay, Jasmine | 
 | First Date | In Love With You | Max | 
@@ -58,16 +58,16 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 | Six | House of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Qourtney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
 | Into The Woods | Hello Little Girl | Sam, Max | 
 | Falsettos | I'm Breaking Down | Erin | 
-| Spring Awakening | Totally Fucked | Jess - Hanschen; Andy - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) |
-| Chicago | Roxie | Jen - Roxy; Dancers: Zephyr, Lyo, Moses, Nick | 
+| Spring Awakening | Totally Fucked | Jess - Hanschen; TBD - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) |
+| Chicago | Roxie | Jen - Roxy; Dancers: Zephyr, Lyo, Max, Nick | 
 | Grease | You're the One that I Want | Madey, Max | 
 | Hamilton | Say No To This | Jose - A. Ham, Jasmine - Maria; James - Husband/Burr | 
-| Legally Blonde | Bend and Snap | Grace - Paulette; Olivia - Serena; Kendall - Pilar; Tay - Margot; Evie - Elle; Ensemble - Hannah, Lyo, Spencer, Jack, Sadie, Moses, Erin, Madey, Nina | 
+| Legally Blonde | Bend and Snap | Grace - Paulette; Olivia - Serena; Kendall - Pilar; Tay - Margot; Evie - Elle; Ensemble - Hannah, Lyo, Spencer, Jack, Sadie, Gia, Madey, Nina | 
 | Annie | Easy Street | Kim - Hannigan; James - Rooster; Julie - Lily | 
-| Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Andy - Yitzhak; Ensemble: Moses, Nick | 
+| Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Hannah - Yitzhak; Ensemble: Zephyr, Nick | 
 | Wicked | As Long As You're Mine | Jess & Nick | 
 | Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
-| Kinky Boots | Raise You Up/Just Be | Moses - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
+| Kinky Boots | Raise You Up/Just Be | TBD - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
 
 
 
