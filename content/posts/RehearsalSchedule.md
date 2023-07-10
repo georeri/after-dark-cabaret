@@ -22,7 +22,7 @@ summary: Look here for the current rehearsal schedule
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
-7/10 | Annex | 6:30-8:00 | 6:30-8:00 Cabaret music&choreo;  | Cab: Jack, Tatiana, Jose, Sadie, Kendall, Gia, (Sam); |
+7/10 | Annex | 6:30-8:00 | 6:30-8:00 Cabaret music&choreo;  | Cab: (Jack), Tatiana, Jose, Sadie, Kendall, Gia, (Sam); |
 7/13 | Theater | 6:30-9:00 | 6:30-8:00 Review ALL Full Cast Numbers (we'll do Totally F'd last, so those of you not in it can leave early). We may run past 8, so prepare your rides accordingly; 8:00-8:30 (Theater) Sincerely Me OFFBOOK run through; 8:00-8:30 (ANNEX) - Sugar Daddy music for Ensemble Only (unless Jose wants to stay) | Full Cast (minus Max and Sam) |
 7/17 | Annex | 6:30-9:30 | 6:30-7:30 Turn Back, O Man Staging; 7:30-8:30 Money, Money, Money staging; 8:30-9:30 Easy Street Staging;  | TBOM: Luisa, Jess, Qourtney, Grace, Rachel; MMM: Courtney, Tatiana, Julie, Erin, Madey, Jen, Jess; SD: Zephyr, Hannah, Nick; |
 7/20 | Annex | 6:30-9:30 | OFF BOOK 6:30-7:30 My Body Run Through; 7:30-8:30 Cell Block Run Through; 8:30-9:30 World Burn Run Through; | MB: Qourtney, Tati, Tay, Jasmine, CB: Madey, Luisa, Nina, Rachel, Jasmine, Erin, WB: Nina, Jasmine, Luisa, Madey | 

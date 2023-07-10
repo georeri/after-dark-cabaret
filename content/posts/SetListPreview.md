@@ -29,7 +29,8 @@ The Everett will be releasing set list info as marketing. Keep this under your h
 
 ### Here's a playlist of all the Cabaret songs!
 [Spotify Cabaret Playlist](https://open.spotify.com/playlist/6fjjUw19tawUxRoZpLNnqk?si=718ce0866b494f70)
-[Apple Muisc Playlist](https://music.apple.com/us/playlist/after-dark-cabaret/pl.u-8DVlFo9VBgg)
+
+[Apple Music Playlist](https://music.apple.com/us/playlist/after-dark-cabaret/pl.u-8DVlFo9VBgg)
 
 ### And here's the full role list
 This is...to the best of our knowledge...the SET LIST order too!
