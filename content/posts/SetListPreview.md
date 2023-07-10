@@ -69,8 +69,8 @@ This is...to the best of our knowledge...the SET LIST order too!
 | Hamilton | Say No To This | Jose - A. Ham, Jasmine - Maria; James - Husband/Burr; Ensemble - [Nina, Tay - may pull out due to quick-change], Jasmine, Tati, Jess, Jen | 
 | Legally Blonde | Bend and Snap | Grace - Paulette; Olivia - Serena; Kendall - Pilar; Tay - Margot; Evie - Elle; Ensemble - Hannah, Lyo, Spencer, Jack, Sadie, Gia, Madey, Nina, Erin | 
 | Annie | Easy Street | Kim - Hannigan; James - Rooster; Julie - Lily | 
-| Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
 | Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Hannah - Yitzhak; Ensemble: Zephyr, Nick | 
+| Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
 | Wicked | As Long As You're Mine | Jess & Nick | 
 | Kinky Boots | Raise You Up/Just Be | TBD - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
 
