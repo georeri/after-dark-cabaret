@@ -26,6 +26,8 @@ Madey is Spencer and Max is Jack
 
 [Bring On The Men](../video/BringontheMen.mp4)
 
+[Cabaret](../video/cabaret_choreo.MOV)
+
 [Cell Block Tango](../video/CellBlock_Choreo.MOV)
 
 [Creepy Old Guy](../video/creepyOldGuy.MOV)
