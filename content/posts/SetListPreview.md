@@ -1,6 +1,6 @@
 ---
 title: "Set List"
-date: 2023-05-25
+date: 2023-07-08
 categories:
 - set
 tags:
