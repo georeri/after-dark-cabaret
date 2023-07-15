@@ -77,7 +77,7 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Bring On The Men](../music/bringOnTheMen_balanced.mp3)
 
-TBD: CABARET
+[Cabaret](../music/cabaret_balanced.mp3)
 
 TBD: CELL BLOCK TANGO
 
@@ -97,9 +97,9 @@ TBD: CELL BLOCK TANGO
 
 [Livin' It Up On Top](../music/livinItUpOnTop_balanced.mp3)
 
-TBD: MONEY, MONEY, MONEY
+[Money, Money, Money](..music/moneymoneymoney_balanced.mp3)
 
-TBD: MY BODY
+[My Body](..music/mybody_balanced.mp3)
 
 TBD: THE NEGATIVE
 
@@ -117,7 +117,7 @@ TBD: THE NEGATIVE
 
 [Totally Fucked](../music/totallyFucked_balanced.mp3)
 
-TBD: TURN BACK, O MAN
+[Turn Back O Man](../music/turnBackOMan_balanced.mp3)
 
 [World Burn](../music/worldBurn_balanced.mp3)
 
