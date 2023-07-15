@@ -79,7 +79,7 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Cabaret](../music/cabaret_balanced.mp3)
 
-TBD: CELL BLOCK TANGO
+[Cell Block Tango](../music/cellBlock_balanced.mp3)
 
 [Creepy Old Guy](../music/CreepyOldGuy_balanced.mp3)
 
@@ -101,7 +101,7 @@ TBD: CELL BLOCK TANGO
 
 [My Body](..music/mybody_balanced.mp3)
 
-TBD: THE NEGATIVE
+[The Negative](../music/theNegative_balanced.mp3)
 
 [Raise You Up / Just Be](../music/raiseYouUpJustBe_balanced.mp3)
 
