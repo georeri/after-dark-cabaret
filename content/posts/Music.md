@@ -97,9 +97,9 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 
 [Livin' It Up On Top](../music/livinItUpOnTop_balanced.mp3)
 
-[Money, Money, Money](..music/moneymoneymoney_balanced.mp3)
+[Money, Money, Money](../music/moneymoneymoney_balanced.mp3)
 
-[My Body](..music/mybody_balanced.mp3)
+[My Body](../music/mybody_balanced.mp3)
 
 [The Negative](../music/theNegative_balanced.mp3)
 
