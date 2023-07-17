@@ -46,7 +46,7 @@ This is...to the best of our knowledge...the SET LIST order too!
 | Godspell | Turn Back, O Man | Lead - Luisa; Dancers: Jess, Qourtney, Grace, Rachel | 
 | Beetlejuice | Creepy Old Guy | Evie - Lydia; Beetlejuice - Lyo; Jess - Adam&Charles; Erin - Barbara; Abby - Delia; Ensemble - Zephyr, Hannah, Gia, Jen, Madey |
 | Mean Girls | World Burn | Nina; Ensemble - Madey, Luisa, Jasmine, Rachel |  
-| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; TBD - Georg; Jack - Moritz; Nick - Otto | 
+| Spring Awakening | Bitch of Living | Zephyr - Ernst; Lyo - Hanschen; Spencer - Melchior; Spencer - Georg; Jack - Moritz; Nick - Otto | 
 | Waitress | The Negative | Jen - Dawn; Erin - Becky; Madey - Jenna | 
 | The Life | My Body | Qourtney, Tatiana, Tay, Jasmine | 
 | Jeckyl and Hyde | Bring on the Men | Nick | 
@@ -72,7 +72,7 @@ This is...to the best of our knowledge...the SET LIST order too!
 | Hedwig and the Angry Inch | Sugar Daddy | Jose - Hedwig; Hannah - Yitzhak; Ensemble: Zephyr, Nick | 
 | Chicago | Cell Block Tango | Madey - Lipshitz; Luisa - Uh-Uh; Nina - Six; Jen - Cicero; Rachel - Pop; Jasmine - Squish; Erin - announcer | 
 | Wicked | As Long As You're Mine | Jess & Nick | 
-| Kinky Boots | Raise You Up/Just Be | TBD - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
+| Kinky Boots | Raise You Up/Just Be | James - Lola; Spencer - Charlie; Hannah - Lauren; Jack - Don; Angels: Sadie, Kendall, Kim, Julie, Courtney, Rachel ;Solo1: Evie, 2: Tatiana, 3: Grace, 4: Qourtney, 5: Olivia; 6: Jasmine; Full cast - ensemble | 
 
 
 
