@@ -1,6 +1,6 @@
 ---
 title: "Choreo Notes and Videos"
-date: 2023-06-29
+date: 2023-07-19
 categories:
 - choreo
 tags:
@@ -32,6 +32,8 @@ Madey is Spencer and Max is Jack
 
 [Creepy Old Guy](../video/creepyOldGuy.MOV)
 
+[Easy Street](../video/easyStreet_choreo.MOV)
+
 [Hello Little Girl](../video/HelloLittleGirl.MOV)
 
 [House of Holbein](../video/HouseOfHolbein_CHOREO.MOV) Evie is standing in for Qourtney. Ensemble members will be in aisles on the floor.
@@ -39,6 +41,8 @@ Madey is Spencer and Max is Jack
 [In Love With You](../video/InLoveWithYou.mp4)
 
 [Living It Up On Top](../video/LivingItUp_Choreo.MOV) Nina joins the quartet after Evie (twirl group) and sits at Madey's table. Grace joins the pas de bouree group after Erin and sits at Olivia's table. Other missing ensemble members are in the alcove at stage L.
+
+[Money Money Money](../video/moneymoneymoney_choreo.MOV)
 
 [My Body](../video/MyBody.mp4) Jes is standing in for Qourtney
 
@@ -56,6 +60,8 @@ Madey is Spencer and Max is Jack
 [Sugar Daddy](../video/SugarDaddy.mp4) Hannah is standing in for Andy in Sugar Daddy
 
 [Totally Fd](../video/TotallyFed.mov)
+
+[Turn Back O Man](../video/turnBackOMan_choreo.mov)
 
 [World Burn](../video/WorldBurn.mp4)
 
