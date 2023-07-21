@@ -61,7 +61,7 @@ Madey is Spencer and Max is Jack
 
 [Totally Fd](../video/TotallyFed.mov)
 
-[Turn Back O Man](../video/turnBackOMan_choreo.mov)
+[Turn Back O Man](../video/turnBackOMan_choreo.MOV)
 
 [World Burn](../video/WorldBurn.mp4)
 
