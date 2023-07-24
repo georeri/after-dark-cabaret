@@ -24,7 +24,7 @@ summary: Look here for the current rehearsal schedule
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
 7/24 | Annex | 6:30-8:30 | 6:30-7:00 Big Spender Run Through OFF BOOK; 7:00-7:30 Money Money Money ensemble choreo; 7:30-8:00 Sugar Daddy Run Through OFF BOOK; 8:00-8:30 Roxie Run Through OFF BOOK; 8:30-9:00 You're the One That I Want - Run Through OFF BOOK | BS: Jess, Tati, Kim, Julie, Courtney, Abby, Luisa, Rachel, Jasmine; MMM: Erin, Jess, Madey, Jen, Tati, Julie; SD: Jose, Hannah, (Zephyr), Nick; Roxie: Jen, (Zephyr), Lyo, Max, Nick; YTTTIW: Max, Madey |
-7/27 | Theater | 6:30-9:30 | OFF BOOK Stumble Through entire show top to bottom (bring something to entertain yourself!). Those with conflicts may come and go, but are responsible for keeping track and making sure they are in place for this songs. | Full Cast (Erin, Evie out) |
+7/27 | Theater | 6:30-9:30 | OFF BOOK Stumble Through entire show top to bottom (bring something to entertain yourself!). Those with conflicts may come and go, but are responsible for keeping track and making sure they are in place for this songs. | Full Cast (Erin, Evie, Luisa out) |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast (Erin, Evie out) |
 8/3 | Theater | 6:30-9:30 | Run through - All - BRING IN ALL COSTUMES AND PROPS  | All |
 8/5 | Theater | 11:00-6:00 | Tech - All  | All (Qourtney, Erin, Gia) |
