@@ -49,7 +49,7 @@ Madey is Spencer and Max is Jack
 
 [Raise You Up / Just Be](../video/raiseYouUpChoreo.MOV) Listen to the audio for hints on who is standing in for missing cast members
 
-[Roxy](../video/Roxy_Choreo.MOV) Max is standing in for Moses
+[Roxie](../video/roxie.MOV) Jen - don't worry about what Madey is doing. She's just filling the space.
 
 [Say No To This](../video/SayNoToThis_Choreo.MOV)
 
