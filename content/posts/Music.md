@@ -15,57 +15,12 @@ url: music.html
 summary: Sheet music and backing tracks
 ---
 
-## Sheet Music Available
-
-Sheet music will be posted here as we pull it and annotate it.
-
-[Bend and Snap](../doc/BendAndSnap.pdf)
-
-[Big Spender](../doc/BigSpender.pdf)
-
-[Bitch of Living](../doc/BitchOfLiving.pdf)
-
-[Creepy Old Guy](../doc/CreepyOldGuy.pdf)
-
-[Cell Block Tango](../doc/CellBlockTango-FMinor.pdf)
-
-[Easy Street](../doc/EasyStreet.pdf) Updated 7/6 with sheet music that matches the backing track
-
-[Haus of Holbein](../doc/HausofHolbein.pdf)
-
-[I'm Breaking Down](../doc/ImBreakingDown.pdf)
-
-[Living It Up On Top](../doc/livinitupontop.pdf)
-
-[Money Money Money](../doc/MoneyMoneyMoney.pdf)
-
---------------
-[The Negative](../doc/Theegative.pdf)
-
-The Negative VOCAL Tracks avaialable:
-
-- [Madey](../music/negative-vocals_MADEY.mp3)
-- [Jen](../music/negative-vocals_JEN.mp3)
-- [Erin](../music/negative-vocals_ERIN.mp3)
-
---------------
-
-
-[Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
-
-[Roxy](../doc/RoxyLyrics.pdf)
-
-[Say No To This](../doc/SayNoToThis.pdf)
-
-[Sexy](../doc/Sexy.pdf)
-
-[Sincerely, Me](../doc/SincerelyMe.pdf)
-
-[Totally Fd](../doc/TOTALLYFD.pdf)
-
 ## Music tracks available for download
 
-Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky! (The one with "balanced" in their filenames are the ones Erin has pre-adjusted for volume-mixing)
+Instrumental tracks for the songs are linked below. Make sure you're practicing with these tracks as the timing can be tricky! 
+
+* 7/25 all tracks are clean and updated, show-ready. Let Erin know if adjustments need to be made.
+  
 
 [As Long As You're Mine](../music/asLongAsYoureMine_balanced.mp3)
 
@@ -122,6 +77,55 @@ Instrumental tracks for the songs are linked below. Make sure you're practicing 
 [World Burn](../music/worldBurn_balanced.mp3)
 
 [You're The One That I Want](../music/youreTheOneIWant_balanced.mp3)
+## Sheet Music Available
+
+Sheet music will be posted here as we pull it and annotate it.
+
+[Bend and Snap](../doc/BendAndSnap.pdf)
+
+[Big Spender](../doc/BigSpender.pdf)
+
+[Bitch of Living](../doc/BitchOfLiving.pdf)
+
+[Creepy Old Guy](../doc/CreepyOldGuy.pdf)
+
+[Cell Block Tango](../doc/CellBlockTango-FMinor.pdf)
+
+[Easy Street](../doc/EasyStreet.pdf) Updated 7/6 with sheet music that matches the backing track
+
+[Haus of Holbein](../doc/HausofHolbein.pdf)
+
+[I'm Breaking Down](../doc/ImBreakingDown.pdf)
+
+[Living It Up On Top](../doc/livinitupontop.pdf)
+
+[Money Money Money](../doc/MoneyMoneyMoney.pdf)
+
+--------------
+[The Negative](../doc/Theegative.pdf)
+
+The Negative VOCAL Tracks avaialable:
+
+- [Madey](../music/negative-vocals_MADEY.mp3)
+- [Jen](../music/negative-vocals_JEN.mp3)
+- [Erin](../music/negative-vocals_ERIN.mp3)
+
+--------------
+
+
+[Raise You Up / Just Be](../doc/RaiseYouUpJustBe.pdf)
+
+[Roxy](../doc/RoxyLyrics.pdf)
+
+[Say No To This](../doc/SayNoToThis.pdf)
+
+[Sexy](../doc/Sexy.pdf)
+
+[Sincerely, Me](../doc/SincerelyMe.pdf)
+
+[Totally Fd](../doc/TOTALLYFD.pdf)
+
+
 
 
 
