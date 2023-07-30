@@ -60,7 +60,7 @@ This is...to the best of our knowledge...the SET LIST order too!
 
 | Show | Song | Cast |
 | ------- | -------- | ------- |
-| Six | House of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Qourtney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
+| Six | Haus of Holbein | Abby - Aragon; Gia - Boleyn; Jess - Seymour; Qourtney - Parr; Olivia - Howard; Jasmine - Cleves; Full cast - ensemble (minus Max, Sam) | 
 | Into The Woods | Hello Little Girl | Sam, Max | 
 | Falsettos | I'm Breaking Down | Erin | 
 | Spring Awakening | Totally Fucked | Jess - Hanschen; Gia - Melchoir; Jack - Otto; Olivia - Georg; Full cast (minus Spencer, Tay, Max, Sam) |
