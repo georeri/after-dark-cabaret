@@ -1,6 +1,6 @@
 ---
 title: "Rehearsal Schedule"
-date: 2023-07-24
+date: 2023-08-06
 categories:
 - schedule
 tags:
@@ -17,20 +17,32 @@ summary: Look here for the current rehearsal schedule
 ---
 
 **RECENT CHANGES:**
-* 8/3 updated to include note to bring costumes and props
+* Detailed schedule for 8/9 added
 
 | Date      | Location | Time | Agenda | Called |
 | ----- | ----------- | ----------- | ----------- | ---------------------------- | 
-8/5 | Theater | 11:00-6:00 | Tech - All. Bring snacks so you can eat during breaks.  | All (Qourtney, Erin, Gia, Max) |
-8/9 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All - MANDATORY |
+8/9 | Theater | 6:00-10:00 | Dress Rehearsal - All __SEE DETAILED SCHEDULE BELOW__  | All - MANDATORY |
 8/10 | Theater | 6:00-10:00 | Dress Rehearsal - All  | All - MANDATORY |
 8/11 | Theater | 5:30-10:00 | SHOW NIGHT - Called at 5:30; Come through Annex |
 8/12 | Theater | 5:30-10:30 | SHOW NIGHT - Called at 5:30; Come through Annex; Assist with strike afterwards (clean up dressing rooms and green room, sort costumes) |
 
+# August 9th Rehearsal Schedule
+
+__James, Julie, and Kim Only__: Easy Street - run at 5:30
+
+__Full Cast:__
+* __6:00__ Arrive, get mics, get costumes for first number. Come and wait in theater. We will do a special review of the songs below. You have until 6:45 to get your mic and costume on. Bitch of Living cast should come right to the stage when they arrive to start a run-through, then get their mics and costumes after.
+* __6:00-6:15__ Bitch of Living Run
+* __6:15-6:30__ Roxy Run
+* __6:30-6:45__ Money, Money Run
+* __6:45__ Sound check on stage followed immediately by vocal warmups in the theater and a sing-thru of Raise You Up/ Just Be.
+* __7:00__ Places for start of Act1 (Cabaret).
+
+Will aim to do a FULL RUN of the entire show. We will take a very short break for intermission, just to let people get in costume for the first song of Act2. We are aiming to be done by 9:45. You should be backstage, ready, at least 1 song before your next number so we can move smoothly between numbers. Cast will stay in dressing rooms / green room during run (just like for the real show).
 
 
 
-Completed Rehearsals:
+### Completed Rehearsals:
 
 | Date      | Location | Time | Agenda | Called |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
@@ -58,3 +70,4 @@ Completed Rehearsals:
 7/27 | Theater | 6:30-9:30 | OFF BOOK Stumble Through entire show top to bottom (bring something to entertain yourself!). Those with conflicts may come and go, but are responsible for keeping track and making sure they are in place for this songs. | Full Cast (Erin, Evie, Luisa out) |
 7/31 | Annex | 6:30-9:30 |  Full stumble-through | Full Cast (Erin, Evie out) |
 8/3 | Theater | 6:30-9:30 | Run through - All - BRING IN ALL COSTUMES AND PROPS  | All |
+8/5 | Theater | 11:00-6:00 | Tech - All. Bring snacks so you can eat during breaks.  | All (Qourtney, Erin, Gia, Max) |
