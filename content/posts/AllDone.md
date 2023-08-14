@@ -12,7 +12,7 @@ thumbnailImagePosition: "left"
 thumbnailImage: /img/poster.jpg
 metaAlignment: center
 url: alldone.html
-summary: The Show is Over
+summary: What an amazing show!
 ---
 
 ## THANK YOU!

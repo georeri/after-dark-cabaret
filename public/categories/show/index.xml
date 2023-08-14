@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>show on After Dark Cabaret</title>
+    <link>https://after-dark-cabaret-info.dramaproducer.com/categories/show/</link>
+    <description>Recent content in show on After Dark Cabaret</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://after-dark-cabaret-info.dramaproducer.com/categories/show/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Done</title>
+      <link>https://after-dark-cabaret-info.dramaproducer.com/alldone.html</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://after-dark-cabaret-info.dramaproducer.com/alldone.html</guid>
+      <description>What an amazing show!</description>
+    </item>
+    
+  </channel>
+</rss>
